@@ -21,9 +21,22 @@ Huawei HCIP-Security Bootcamp - Remote                        Jan 2024 - Oct 202
 # 🧩  Projects
 
 
-# Education & Certifications
-- Bachelor of Science (B.Sc) in Accounting (Second Class Upper - 4.25/5.0)
-- 
+# Education, Certifications & Workshops
+- Bachelor of Science (B.Sc) in Accounting (Second Class Upper)
+- HCIP–Security (Huawei Certified ICT Professional – Security) – Huawei Technologies, 2024–2027
+  (Earned after 3 months of intensive training with Huawei & Uniport in collaboration with Pearson VUE)
+- Google Cybersecurity Professional Certificate – Google, 2023
+- Google IT Support Professional Certificate – Google, 2024
+- Google Digital Marketing & E-Commerce Professional Certificate – Google, 2025
+- SIEM Splunk Hands-on Guide – Coursera, 2024
+- Practical Help Desk - TCM Security, 2025
+- Practical Ethical Hacking (PEH) – TCM Security, 2023
+- Junior Cybersecurity Analyst – Cisco, 2024
+- Network Technician – Cisco, 2024
+- Python 101 for Hackers – TCM Security, 2023
+- Open Source Intelligence (OSINT) – TCM Security, 2023
+- Linux 101 – TCM Security, 2023
+- Scientific Computing with Python - FreeCodeCamp, 2022
 
 
 # 🌍 Connect With Me
