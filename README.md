@@ -24,3 +24,11 @@ Huawei HCIP-Security Bootcamp - Remote                        Jan 2024 - Oct 202
 # Education & Certifications
 - Bachelor of Science (B.Sc) in Accounting (Second Class Upper - 4.25/5.0)
 - 
+
+
+# 🌍 Connect With Me
+- 📧 Email:          wisdomoffiong@gmail.com
+- 💼 LinkedIn:       www.linkedin.com/in/wisdom-etteobong-offiong
+- 🐙 GitHub:         https://github.com/Wisdom-Etteobong
+
+  
