@@ -40,7 +40,7 @@ Huawei HCIP-Security Bootcamp - Remote                        Jan 2024 - Oct 202
 
 
 # 🌍 Connect With Me
-- 📧 Email:          wisdomoffiong@gmail.com
+- 📧 Email:          wisdomoffiong688@gmail.com
 - 💼 LinkedIn:       www.linkedin.com/in/wisdom-etteobong-offiong
 - 🐙 GitHub:         https://github.com/Wisdom-Etteobong
 
