@@ -32,10 +32,9 @@ Huawei HCIP-Security Bootcamp - Remote                        Jan 2024 - Oct 202
 - https://dashboard-ip360-staging.up.railway.app/login?returnTo=%2F
 
 # Education, Certifications & Workshops
-- Bachelor of Science (B.Sc) in Accounting (Second Class Upper)
-- HCIP–Security (Huawei Certified ICT Professional – Security) – Huawei Technologies, 2024–2027
-  (Earned after 3 months of intensive training with Huawei & Uniport in collaboration with Pearson VUE)
-- Google Cybersecurity Professional Certificate – Google, 2023
+- Bachelor of Science (B.Sc) - Second Class Upper
+- Software Development by 3MTT
+- HCIP–Security (Huawei Certified ICT Professional – Security)
 - Google IT Support Professional Certificate – Google, 2024
 - Google Digital Marketing & E-Commerce Professional Certificate – Google, 2025
 - SIEM Splunk Hands-on Guide – Coursera, 2024
