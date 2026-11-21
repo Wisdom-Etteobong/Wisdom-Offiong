@@ -8,8 +8,7 @@ Enthusiastic and tech-driven professional with a solid foundation in cybersecuri
 - Development & Scripting: HTML, CSS (Bootstrap), JavaScript (MERN Stack), Fundamentals of Python, Bash
 - Cloud & Virtualization: Google Cloud, VirtualBox
 - Version Control & Collaboration: GitHub, Git, VS Code
-- 
-
+- CI/CD Tools: Railway, Render, Vercel
 
 # 👔 Professional Experiences
 Team Lead 
