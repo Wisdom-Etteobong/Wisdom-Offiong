@@ -29,7 +29,8 @@ Huawei HCIP-Security Bootcamp - Remote                        Jan 2024 - Oct 202
 # 🧩  Projects
 - https://prokingsgadgets.onrender.com/
 - https://smartcare-07t8.onrender.com/
-- https://dashboard-ip360-staging.up.railway.app/login?returnTo=%2F
+- https://dashboard-ip360-staging.up.railway.app/login?returnTo=%2F - Collaboration
+- https://invent-wealth-app-staging.up.railway.app/properties  - QA Testing
 
 # Education, Certifications & Workshops
 - Bachelor of Science (B.Sc) - Second Class Upper
