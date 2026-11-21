@@ -6,8 +6,9 @@ Enthusiastic and tech-driven professional with a solid foundation in cybersecuri
 - Cybersecurity: Wireshark, Burp Suite, Metasploit, Nessus, Splunk, Kali Linux, Nmap, Cisco Packet Tracer
 - Networking: TCP/IP, Firewalls, VPNs, Network Security Fundamentals, Subnetting, Router & Switch Configuration
 - Development & Scripting: HTML, CSS (Bootstrap), JavaScript (MERN Stack), Fundamentals of Python, Bash
-- Cloud & Virtualization: Google Cloud, VMware, VirtualBox
+- Cloud & Virtualization: Google Cloud, VirtualBox
 - Version Control & Collaboration: GitHub, Git, VS Code
+- 
 
 
 # 👔 Professional Experiences
